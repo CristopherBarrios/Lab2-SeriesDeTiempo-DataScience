@@ -1,8 +1,0 @@
-```{r}
-data1 <- read.csv("./Data/IMPORTACION-VOLUMEN-2023-05.xlsx")  
-
-data2 <- read.csv("./Data/CONSUMO-2023-05.xlsx")  
-
-
-```
-
